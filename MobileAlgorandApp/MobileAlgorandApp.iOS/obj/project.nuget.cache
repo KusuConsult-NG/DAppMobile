@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTDPVQYyNh8kZrZGVgEoJZ6TokcSgDCX+ls7p+95/3KEgsYoaK4zWddsOovBj6p/2ogBttY/XxSS0t/Xc4px1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\MobileAlgorandApp\\MobileAlgorandApp\\MobileAlgorandApp.iOS\\MobileAlgorandApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\algorand\\0.1.2.6\\algorand.0.1.2.6.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\msgpack.cli\\1.0.1\\msgpack.cli.1.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.msgpack\\0.1.11\\newtonsoft.msgpack.0.1.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
